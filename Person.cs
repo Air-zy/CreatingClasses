@@ -16,12 +16,11 @@ namespace People {
 
         // methods
         public void DisplayPersonInfo() {
-            Console.WriteLine($"PersonId: {personId}, Name: {firstName} {lastName}'s favorite color is {favoriteColour}");
+            Console.WriteLine($"{personId}: {firstName} {lastName}'s favorite color is {favoriteColour}");
         }
 
         public void ChangeFavoriteColour() {
             favoriteColour = "White";
-            Console.WriteLine($"{firstName} {lastName}'s favorite color has been changed to {favoriteColour}");
         }
 
         public int GetAgeInTenYears() {
@@ -29,11 +28,12 @@ namespace People {
         }
 
         public override string ToString() {
-            return $"personId: {personId}\n" +
-                   $"name: {firstName} {lastName}\n" +
-                   $"favoriteColour: {favoriteColour}\n" +
-                   $"age: {age}\n" +
-                   $"isWorking: {isWorking}";
+            return $"PersonId: {personId}\n" + 
+                   $"FirstName: {firstName}\n" +
+                   $"LastName: {lastName}\n" +
+                   $"FavoriteColour: {favoriteColour}\n" +
+                   $"Age: {age}\n" +
+                   $"IsWorking: {isWorking}";
         }
 
     }

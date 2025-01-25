@@ -1,0 +1,14 @@
+C:\Collage_Coding\OOPII\CreatingClasses\CreatingClasses\bin\Debug\net8.0\CreatingClasses.exe
+C:\Collage_Coding\OOPII\CreatingClasses\CreatingClasses\bin\Debug\net8.0\CreatingClasses.deps.json
+C:\Collage_Coding\OOPII\CreatingClasses\CreatingClasses\bin\Debug\net8.0\CreatingClasses.runtimeconfig.json
+C:\Collage_Coding\OOPII\CreatingClasses\CreatingClasses\bin\Debug\net8.0\CreatingClasses.dll
+C:\Collage_Coding\OOPII\CreatingClasses\CreatingClasses\bin\Debug\net8.0\CreatingClasses.pdb
+C:\Collage_Coding\OOPII\CreatingClasses\CreatingClasses\obj\Debug\net8.0\CreatingClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Collage_Coding\OOPII\CreatingClasses\CreatingClasses\obj\Debug\net8.0\CreatingClasses.AssemblyInfoInputs.cache
+C:\Collage_Coding\OOPII\CreatingClasses\CreatingClasses\obj\Debug\net8.0\CreatingClasses.AssemblyInfo.cs
+C:\Collage_Coding\OOPII\CreatingClasses\CreatingClasses\obj\Debug\net8.0\CreatingClasses.csproj.CoreCompileInputs.cache
+C:\Collage_Coding\OOPII\CreatingClasses\CreatingClasses\obj\Debug\net8.0\CreatingClasses.dll
+C:\Collage_Coding\OOPII\CreatingClasses\CreatingClasses\obj\Debug\net8.0\refint\CreatingClasses.dll
+C:\Collage_Coding\OOPII\CreatingClasses\CreatingClasses\obj\Debug\net8.0\CreatingClasses.pdb
+C:\Collage_Coding\OOPII\CreatingClasses\CreatingClasses\obj\Debug\net8.0\CreatingClasses.genruntimeconfig.cache
+C:\Collage_Coding\OOPII\CreatingClasses\CreatingClasses\obj\Debug\net8.0\ref\CreatingClasses.dll
